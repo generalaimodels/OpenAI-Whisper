@@ -1,0 +1,6 @@
+torch
+transformers
+yt-dlp
+sounddevice
+numpy
+scipy
